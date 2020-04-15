@@ -4,9 +4,9 @@
 /// Documentation comments look like this and support markdown notation.
 /// # Examples
 ///
-/// ```
+/// '''
 /// let five = 5
-/// ```
+/// '''
 
 ///////////////
 // 1. Basics //
@@ -24,6 +24,7 @@ fn add2(x: i32, y: i32) -> i32 {
 #[allow(unused_assignments)]
 #[allow(dead_code)]
 fn main() {
+
    // Numbers //
 
    // Immutable bindings
